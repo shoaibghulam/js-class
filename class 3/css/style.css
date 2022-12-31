@@ -1,0 +1,30 @@
+/* h1{
+    font-size:40px;
+    color:#110376;
+    text-decoration: overline;
+    font-weight:900;
+}
+p{
+    font-size:13px;
+    color:#d42308;
+  
+    font-weight:300;
+} */
+
+.title{
+    text-align: center;
+    font-size:50px;
+    color:#ab1010;
+}
+.shadow-text{
+    font-size:50px;
+    text-align: center;
+    color:#fff;
+    text-shadow:12px 12px 14px #333;
+   
+}
+img{
+    width:300px;
+    height: 300px;
+    border-radius: 50%
+}
