@@ -52,7 +52,7 @@
 # else:
 #     print("it is False")
 
-pre=80
+pre=70
 grade=""
 if pre> 90:
     grade="A"
